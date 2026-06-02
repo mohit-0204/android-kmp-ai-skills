@@ -1,0 +1,7 @@
+# Ignore generated machine-specific config
+workspace.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
